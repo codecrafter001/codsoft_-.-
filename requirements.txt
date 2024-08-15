@@ -1,0 +1,21 @@
+# Basic dependencies
+tkinter  # Built-in module for GUI; doesn't need to be listed if using standard Python
+
+# Additional packages you might use in your Tkinter projects
+Pillow          # For handling images in Tkinter
+requests        # For making HTTP requests
+openpyxl        # For Excel file handling
+pyperclip       # For clipboard management
+pyinstaller     # For converting Python scripts to standalone executables
+pyttsx3         # For text-to-speech functionality
+PyAutoGUI       # For automating GUI tasks
+
+# Development tools
+pylint          # For code linting
+black           # For code formatting
+flake8          # For checking code style
+autopep8        # For automatically fixing PEP8 issues
+
+# Testing tools
+pytest          # For running tests
+pytest-cov      # For measuring code coverage in tests
